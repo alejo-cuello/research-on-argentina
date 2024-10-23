@@ -20,4 +20,6 @@ dependencies:
   - pyprojroot
   - python=3.11.5
   - seaborn
-  
+  - missingno
+  - session-info
+  - upsetplot
