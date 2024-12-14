@@ -22,5 +22,6 @@ dependencies:
   - python=3.11.5
   - seaborn
   - session-info
+  - statsmodels
   - upsetplot
   
