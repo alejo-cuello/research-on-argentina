@@ -18,9 +18,9 @@ def readme() -> str:
     return open(os.path.join(os.path.dirname(__file__), 'README.md')).read()
 
 setup(
-    name='researh-on-argentina',
+    name='research-on-argentina',
     version='0.1.0',
-    author='alejo-cueñllo',
+    author='alejo-cuello',
     author_email='alejocuello.ib@gmail.com',
     description='A short description of the project.',
     python_requires='>=3',

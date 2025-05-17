@@ -25,7 +25,7 @@ The packages necessary to run the project are now installed inside the conda env
 
 ## Set up project's module
 
-To move beyond notebook prototyping, all reusable code should go into the `researh-on-argentina/` folder package. To use that package inside your project, install the project's module in editable mode, so you can edit files in the `researh-on-argentina` folder and use the modules inside your notebooks :
+To move beyond notebook prototyping, all reusable code should go into the `research-on-argentina/` folder package. To use that package inside your project, install the project's module in editable mode, so you can edit files in the `research-on-argentina` folder and use the modules inside your notebooks :
 
 ```bash
 pip install --editable .
@@ -41,7 +41,7 @@ To use the module inside your notebooks, add `%autoreload` at the top of your no
 Example of module usage :
 
 ```python
-from researh-on-argentina.utils.paths import data_dir
+from research-on-argentina.utils.paths import data_dir
 data_dir()
 ```
 
