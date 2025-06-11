@@ -22,10 +22,10 @@ setup(
     version='0.1.0',
     author='alejo-cuello',
     author_email='alejocuello.ib@gmail.com',
-    description='A short description of the project.',
+    description='A data project about Argentina Development Indicators.',
     python_requires='>=3',
     license='MIT',
-    url='',
+    url='https://github.com/alejo-cuello/research-on-argentina/',
     packages=find_packages(),
     long_description=readme(),
 )
