@@ -1,0 +1,1 @@
+# use regplot for checking linear relationship between 2 variables. or use lmplot directly 
