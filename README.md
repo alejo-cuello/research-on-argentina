@@ -13,6 +13,10 @@ Find relationship between employment and educational indicators.
 
 ## Tools and Technologies used:
 - Python
-- Jupyter Notebook
+- Jupyter Notebooks
 - CookieCutter
 - Pandas
+- Numpy
+- Pyplot
+- Seaborn
+- Scikit-learn
