@@ -1,0 +1,107 @@
+Indicator Name,Indicator Code,Indicator Code Snake Case,Indicator Name in Spanish
+Access to electricity (% of population),EG.ELC.ACCS.ZS,eg_elc_accs_zs,Acceso a la electricidad (% de la población)
+Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),FX.OWN.TOTL.ZS,fx_own_totl_zs,Titularidad de cuenta en una institución financiera o proveedor de dinero móvil (% de la población de 15 años o más)
+"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",FX.OWN.TOTL.OL.ZS,fx_own_totl_ol_zs,"Titularidad de cuenta en una institución financiera o proveedor de dinero móvil, adultos mayores (% de la población de 25 años o más)"
+"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",FX.OWN.TOTL.40.ZS,fx_own_totl_40_zs,"Titularidad de cuenta en una institución financiera o proveedor de dinero móvil, 40% más pobre (% de la población de 15 años o más)"
+"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",FX.OWN.TOTL.PL.ZS,fx_own_totl_pl_zs,"Titularidad de cuenta en una institución financiera o proveedor de dinero móvil, educación primaria o menos (% de la población de 15 años o más)"
+"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",FX.OWN.TOTL.60.ZS,fx_own_totl_60_zs,"Titularidad de cuenta en una institución financiera o proveedor de dinero móvil, 60% más rico (% de la población de 15 años o más)"
+"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",FX.OWN.TOTL.SO.ZS,fx_own_totl_so_zs,"Titularidad de cuenta en una institución financiera o proveedor de dinero móvil, educación secundaria o más (% de la población de 15 años o más)"
+"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",FX.OWN.TOTL.YG.ZS,fx_own_totl_yg_zs,"Titularidad de cuenta en una institución financiera o proveedor de dinero móvil, jóvenes adultos (% de la población de 15 a 24 años)"
+Adequacy of social insurance programs (% of total welfare of beneficiary households),per_si_allsi.adq_pop_tot,per_si_allsi_adq_pop_tot,Adecuación de los programas de seguros sociales (% del bienestar total de los hogares beneficiarios)
+Adequacy of social protection and labor programs (% of total welfare of beneficiary households),per_allsp.adq_pop_tot,per_allsp_adq_pop_tot,Adecuación de programas de protección social y laboral (% del bienestar total de los hogares beneficiarios)
+Adequacy of social safety net programs (% of total welfare of beneficiary households),per_sa_allsa.adq_pop_tot,per_sa_allsa_adq_pop_tot,Adecuación de programas de redes de protección social (% del bienestar total de los hogares beneficiarios)
+Adequacy of unemployment benefits and ALMP (% of total welfare of beneficiary households),per_lm_alllm.adq_pop_tot,per_lm_alllm_adq_pop_tot,Adecuación de beneficios por desempleo y programas de mercado laboral activos (% del bienestar total de los hogares beneficiarios)
+"Adjusted net enrollment rate, primary (% of primary school age children)",SE.PRM.TENR,se_prm_tenr,"Tasa neta ajustada de matrícula, nivel primario (% de niños en edad de primaria)"
+"Average working hours of children, study and work, ages 7-14 (hours per week)",SL.TLF.0714.SW.TM,sl_tlf_0714_sw_tm,"Promedio de horas de trabajo infantil, estudio y trabajo, edades 7-14 (horas por semana)"
+"Average working hours of children, working only, ages 7-14 (hours per week)",SL.TLF.0714.WK.TM,sl_tlf_0714_wk_tm,"Promedio de horas de trabajo infantil, solo trabajo, edades 7-14 (horas por semana)"
+Benefit incidence of social insurance programs to poorest quintile (% of total social insurance benefits),per_si_allsi.ben_q1_tot,per_si_allsi_ben_q1_tot,Incidencia del beneficio de programas de seguros sociales al quintil más pobre (% del total de beneficios de seguros sociales)
+Benefit incidence of social protection and labor programs to poorest quintile (% of total SPL benefits),per_allsp.ben_q1_tot,per_allsp_ben_q1_tot,Incidencia del beneficio de programas de protección social y laboral al quintil más pobre (% del total de beneficios)
+Benefit incidence of social safety net programs to poorest quintile (% of total safety net benefits),per_sa_allsa.ben_q1_tot,per_sa_allsa_ben_q1_tot,Incidencia del beneficio de programas de redes de protección social al quintil más pobre (% del total de beneficios de redes)
+Benefit incidence of unemployment benefits and ALMP to poorest quintile (% of total U/ALMP benefits),per_lm_alllm.ben_q1_tot,per_lm_alllm_ben_q1_tot,Incidencia del beneficio de desempleo y programas activos de mercado laboral al quintil más pobre (% del total de beneficios)
+"Children in employment, total (% of children ages 7-14)",SL.TLF.0714.ZS,sl_tlf_0714_zs,"Niños que trabajan, total (% de niños de 7 a 14 años)"
+"Children out of school, primary",SE.PRM.UNER,se_prm_uner,"Niños fuera de la escuela, nivel primario"
+"Compulsory education, duration (years)",SE.COM.DURS,se_com_durs,Duración de la educación obligatoria (años)
+Coverage of social insurance programs (% of population),per_si_allsi.cov_pop_tot,per_si_allsi_cov_pop_tot,Cobertura de programas de seguros sociales (% de la población)
+Coverage of social protection and labor programs (% of population),per_allsp.cov_pop_tot,per_allsp_cov_pop_tot,Cobertura de programas de protección social y laboral (% de la población)
+Coverage of social safety net programs (% of population),per_sa_allsa.cov_pop_tot,per_sa_allsa_cov_pop_tot,Cobertura de programas de redes de protección social (% de la población)
+Coverage of unemployment benefits and ALMP (% of population),per_lm_alllm.cov_pop_tot,per_lm_alllm_cov_pop_tot,Cobertura de beneficios por desempleo y programas activos de mercado laboral (% de la población)
+"Current education expenditure, primary (% of total expenditure in primary public institutions)",SE.XPD.CPRM.ZS,se_xpd_cprm_zs,Gasto corriente en educación primaria (% del gasto total en instituciones públicas de primaria)
+"Current education expenditure, secondary (% of total expenditure in secondary public institutions)",SE.XPD.CSEC.ZS,se_xpd_csec_zs,Gasto corriente en educación secundaria (% del gasto total en instituciones públicas de secundaria)
+"Current education expenditure, tertiary (% of total expenditure in tertiary public institutions)",SE.XPD.CTER.ZS,se_xpd_cter_zs,Gasto corriente en educación terciaria (% del gasto total en instituciones públicas de terciaria)
+"Current education expenditure, total (% of total expenditure in public institutions)",SE.XPD.CTOT.ZS,se_xpd_ctot_zs,Gasto corriente en educación total (% del gasto total en instituciones públicas)
+Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,sh_xpd_chex_gd_zs,Gasto corriente en salud (% del PIB)
+"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.BA.ZS,se_ter_cuat_ba_zs,"Nivel educativo alcanzado, al menos licenciatura o equivalente, población de 25 años o más, total (%) (acumulado)"
+"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,se_sec_cuat_lo_zs,"Nivel educativo alcanzado, al menos secundaria inferior completa, población de 25 años o más, total (%) (acumulado)"
+"Educational attainment, at least completed post-secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.PO.ZS,se_sec_cuat_po_zs,"Nivel educativo alcanzado, al menos postsecundaria completa, población de 25 años o más, total (%) (acumulado)"
+"Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)",SE.PRM.CUAT.ZS,se_prm_cuat_zs,"Nivel educativo alcanzado, al menos primaria completa, población de 25 años o más, total (%) (acumulado)"
+"Educational attainment, at least completed short-cycle tertiary, population 25+, total (%) (cumulative)",SE.TER.CUAT.ST.ZS,se_ter_cuat_st_zs,"Nivel educativo alcanzado, al menos terciario corto completo, población de 25 años o más, total (%) (acumulado)"
+"Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.UP.ZS,se_sec_cuat_up_zs,"Nivel educativo alcanzado, al menos secundaria superior completa, población de 25 años o más, total (%) (acumulado)"
+"Educational attainment, at least Master's or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.MS.ZS,se_ter_cuat_ms_zs,"Nivel educativo alcanzado, al menos maestría o equivalente, población de 25 años o más, total (%) (acumulado)"
+"Educational attainment, Doctoral or equivalent, population 25+, total (%) (cumulative)",SE.TER.CUAT.DO.ZS,se_ter_cuat_do_zs,"Nivel educativo alcanzado, doctorado o equivalente, población de 25 años o más, total (%) (acumulado)"
+"Employers, total (% of total employment) (modeled ILO estimate)",SL.EMP.MPYR.ZS,sl_emp_mpyr_zs,"Empleadores, total (% del empleo total) (estimación OIT modelada)"
+Expenditure on primary education (% of government expenditure on education),SE.XPD.PRIM.ZS,se_xpd_prim_zs,Gasto en educación primaria (% del gasto público en educación)
+Expenditure on secondary education (% of government expenditure on education),SE.XPD.SECO.ZS,se_xpd_seco_zs,Gasto en educación secundaria (% del gasto público en educación)
+Expenditure on tertiary education (% of government expenditure on education),SE.XPD.TERT.ZS,se_xpd_tert_zs,Gasto en educación terciaria (% del gasto público en educación)
+Fixed broadband subscriptions,IT.NET.BBND,it_net_bbnd,Suscripciones a banda ancha fija
+Fixed telephone subscriptions,IT.MLT.MAIN,it_mlt_main,Suscripciones a telefonía fija
+GDP (constant 2015 US$),NY.GDP.MKTP.KD,ny_gdp_mktp_kd,PIB (en dólares constantes de 2015)
+GDP growth (annual %),NY.GDP.MKTP.KD.ZG,ny_gdp_mktp_kd_zg,Crecimiento del PIB (anual %)
+GDP per capita (constant 2015 US$),NY.GDP.PCAP.KD,ny_gdp_pcap_kd,PIB per cápita (en dólares constantes de 2015)
+GDP per capita growth (annual %),NY.GDP.PCAP.KD.ZG,ny_gdp_pcap_kd_zg,Crecimiento del PIB per cápita (anual %)
+Gini index,SI.POV.GINI,si_pov_gini,Índice de Gini
+Individuals using the Internet (% of population),IT.NET.USER.ZS,it_net_user_zs,Individuos que usan Internet (% de la población)
+Labor force with advanced education (% of total working-age population with advanced education),SL.TLF.ADVN.ZS,sl_tlf_advn_zs,Fuerza laboral con educación avanzada (% de la población en edad laboral con educación avanzada)
+Labor force with basic education (% of total working-age population with basic education),SL.TLF.BASC.ZS,sl_tlf_basc_zs,Fuerza laboral con educación básica (% de la población en edad laboral con educación básica)
+Labor force with intermediate education (% of total working-age population with intermediate education),SL.TLF.INTM.ZS,sl_tlf_intm_zs,Fuerza laboral con educación intermedia (% de la población en edad laboral con educación intermedia)
+"Labor force, total",SL.TLF.TOTL.IN,sl_tlf_totl_in,Fuerza laboral total
+"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,sp_dyn_le00_in,"Esperanza de vida al nacer, total (años)"
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,se_adt_litr_zs,"Tasa de alfabetización, adultos (% de personas de 15 años o más)"
+"Literacy rate, youth total (% of people ages 15-24)",SE.ADT.1524.LT.ZS,se_adt_1524_lt_zs,"Tasa de alfabetización, jóvenes (% de personas de 15 a 24 años)"
+Mobile cellular subscriptions,IT.CEL.SETS,it_cel_sets,Suscripciones a telefonía móvil
+Number of deaths ages 10-14 years,SH.DTH.1014,sh_dth_1014,Número de muertes de 10 a 14 años
+Number of deaths ages 15-19 years,SH.DTH.1519,sh_dth_1519,Número de muertes de 15 a 19 años
+Number of deaths ages 20-24 years,SH.DTH.2024,sh_dth_2024,Número de muertes de 20 a 24 años
+Number of deaths ages 5-9 years,SH.DTH.0509,sh_dth_0509,Número de muertes de 5 a 9 años
+Number of infant deaths,SH.DTH.IMRT,sh_dth_imrt,Número de muertes infantiles
+Number of under-five deaths,SH.DTH.MORT,sh_dth_mort,Número de muertes de menores de cinco años
+"Over-age students, primary (% of enrollment)",SE.PRM.OENR.ZS,se_prm_oenr_zs,"Alumnos con sobreedad, nivel primario (% de la matrícula)"
+"Part time employment, total (% of total employment)",SL.TLF.PART.ZS,sl_tlf_part_zs,"Empleo a tiempo parcial, total (% del empleo total)"
+People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,sh_sta_smss_zs,Personas que usan servicios de saneamiento gestionados de forma segura (% de la población)
+Population ages 0-14 (% of total population),SP.POP.0014.TO.ZS,sp_pop_0014_to_zs,Población de 0 a 14 años (% del total)
+Population ages 15-64 (% of total population),SP.POP.1564.TO.ZS,sp_pop_1564_to_zs,Población de 15 a 64 años (% del total)
+Population ages 65 and above (% of total population),SP.POP.65UP.TO.ZS,sp_pop_65_up_to_zs,Población de 65 años o más (% del total)
+"Population, total",SP.POP.TOTL,sp_pop_totl,Población total
+"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,se_prm_cmpt_zs,"Tasa de finalización de primaria, total (% del grupo de edad correspondiente)"
+Primary school age children out-of-school (%),SE.LPV.PRIM.SD,se_lpv_prim_sd,Niños en edad de asistir a primaria fuera de la escuela (%)
+Primary school starting age (years),SE.PRM.AGES,se_prm_ages,Edad de inicio de la escuela primaria (años)
+Pupils below minimum reading proficiency at end of primary (%). Low GAML threshold,SE.LPV.PRIM.LD,se_lpv_prim_ld,Alumnos por debajo del nivel mínimo de lectura al finalizar la primaria (%). Umbral bajo de GAML
+"Pupil-teacher ratio, preprimary",SE.PRE.ENRL.TC.ZS,se_pre_enrl_tc_zs,"Relación alumno-docente, nivel preprimario"
+"Pupil-teacher ratio, primary",SE.PRM.ENRL.TC.ZS,se_prm_enrl_tc_zs,"Relación alumno-docente, nivel primario"
+"Pupil-teacher ratio, secondary",SE.SEC.ENRL.TC.ZS,se_sec_enrl_tc_zs,"Relación alumno-docente, nivel secundario"
+"Pupil-teacher ratio, tertiary",SE.TER.ENRL.TC.ZS,se_ter_enrl_tc_zs,"Relación alumno-docente, nivel terciario"
+"Pupil-teacher ratio, upper secondary",SE.SEC.ENRL.UP.TC.ZS,se_sec_enrl_up_tc_zs,"Relación alumno-docente, nivel secundario superior"
+Refugee population by country or territory of asylum,SM.POP.REFG,sm_pop_refg,Población refugiada por país o territorio de asilo
+Refugee population by country or territory of origin,SM.POP.REFG.OR,sm_pop_refg_or,Población refugiada por país o territorio de origen
+Rural population (% of total population),SP.RUR.TOTL.ZS,sp_rur_totl_zs,Población rural (% del total)
+"School enrollment, preprimary (% gross)",SE.PRE.ENRR,se_pre_enrr,Matrícula escolar preprimaria (% bruta)
+"School enrollment, primary (% gross)",SE.PRM.ENRR,se_prm_enrr,Matrícula escolar primaria (% bruta)
+"School enrollment, secondary (% gross)",SE.SEC.ENRR,se_sec_enrr,Matrícula escolar secundaria (% bruta)
+"School enrollment, tertiary (% gross)",SE.TER.ENRR,se_ter_enrr,Matrícula escolar terciaria (% bruta)
+"Secondary education, duration (years)",SE.SEC.DURS,se_sec_durs,Duración de la educación secundaria (años)
+"Self-employed, total (% of total employment) (modeled ILO estimate)",SL.EMP.SELF.ZS,sl_emp_self_zs,"Trabajadores por cuenta propia, total (% del empleo total) (estimación OIT modelada)"
+"Share of youth not in education, employment or training, total (% of youth population)  (modeled ILO estimate)",SL.UEM.NEET.ME.ZS,sl_uem_neet_me_zs,Porcentaje de jóvenes que no estudian ni trabajan ni reciben formación (% de la población joven) (estimación OIT modelada)
+Unemployment with advanced education (% of total labor force with advanced education),SL.UEM.ADVN.ZS,sl_uem_advn_zs,Desempleo con educación avanzada (% de la fuerza laboral con educación avanzada)
+Unemployment with basic education (% of total labor force with basic education),SL.UEM.BASC.ZS,sl_uem_basc_zs,Desempleo con educación básica (% de la fuerza laboral con educación básica)
+Unemployment with intermediate education (% of total labor force with intermediate education),SL.UEM.INTM.ZS,sl_uem_intm_zs,Desempleo con educación intermedia (% de la fuerza laboral con educación intermedia)
+"Unemployment, total (% of total labor force) (modeled ILO estimate)",SL.UEM.TOTL.ZS,sl_uem_totl_zs,Desempleo total (% de la fuerza laboral total) (estimación OIT modelada)
+Urban population (% of total population),SP.URB.TOTL.IN.ZS,sp_urb_totl_in_zs,Población urbana (% del total)
+Year,year,year,Año
+It was a year of military dictatorship,year.of.dictatorship,year_of_dictatorship,Fue un año de dictadura militar
+GDP growth categories,NY.GDP.MKTP.KD.ZG.CAT,ny_gdp_mktp_kd_zg_cat,Categorías del crecimiento del PBI
+Life Expectancy categories,SP.DYN.LE00.IN.CAT,sp_dyn_le00_in_cat,Categorías de expectativas de vida
+Mobile Subscription Categories,IT.CEL.SETS.CAT,it_cel_sets_cat,Categorías de suscripción a telefonía móvil
+Mobile Subscription (% of total population),IT.CEL.SETS.PCT,it_cel_sets_pct,Suscripción a telefonía móvil (% de la población total)
+GDP Per Capita Categories,NY.GDP.PCAP.KD.CAT,ny_gdp_pcap_kd_cat,Categorías crecimiento del PBI Per Cápita
+Secondary school enrollment categories,SE.SEC.ENRR.CAT,se_sec_enrr_cat,Categorías de inscripción a educación secundaria
+Percentage of Worker Age Population,DEM.DEP.CAT,dem_dep_cat,Porcentaje de la población en edad trabajadora
+GDP Growth Volatility,NY.GDP.MKTP.KD.GRW.CAT,ny_gdp_mktp_kd_grw_cat,Volatilidad del crecimiento del PBI

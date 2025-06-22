@@ -1,22 +1,32 @@
 # research-on-argentina
 
-## Summary
+# 📊 World Development Indicators – Argentina
 
-In this project, I am applying the concepts learned in the [Platzi data science courses I take](https://platzi.com/p/alejo-cuello/).
+This is a personal project in which I apply the tools and knowledge acquired through several Data Science courses at Platzi. The project focuses on analyzing **World Development Indicators** related to **Argentina**, with the goal of finding relationships between employment and education indicators.
 
-## Objective
+## 🧠 What I'm Doing
+This is an **ongoing project** where I’m practicing and applying the complete data science workflow:
 
-Find relationship between employment and educational indicators.
+- 🔍 **Exploratory Data Analysis (EDA)**  
+- 🧼 **Data Cleaning**  
+- 🔄 **Preprocessing and Feature Engineering**  
+- 📈 **Initial Processing and Visualizations**
 
-## Data description
-[World development indicators](https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indicators).
+## 📚 Skills and Tools Applied
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Jupyter Notebooks, CookieCutter)
+- Data wrangling
+- Descriptive statistics
+- Data visualization
 
-## Tools and Technologies used:
-- Python
-- Jupyter Notebooks
-- CookieCutter
-- Pandas
-- Numpy
-- Pyplot
-- Seaborn
-- Scikit-learn
+## 📌 Dataset
+The dataset used in this project comes from the [World development indicators](https://datacatalog.worldbank.org/search/dataset/0037712/World-Development-Indicators), specifically filtered for Argentina.
+
+## 🚧 Project Status
+This is a work in progress. I'm continuously improving the analysis and planning to include:
+- Trend analysis across decades
+- Correlation studies between indicators
+- Predictive modeling
+- Dashboard or final report
+
+## 📎 Certifications
+You can view all the certifications from the courses I’ve completed on my [LinkedIn profile](https://www.linkedin.com/in/alejo-cuello).
